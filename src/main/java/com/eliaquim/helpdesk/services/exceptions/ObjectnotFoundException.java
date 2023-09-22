@@ -1,4 +1,4 @@
-package com.eliaquim.helpdesk.services;
+package com.eliaquim.helpdesk.services.exceptions;
 
 public class ObjectnotFoundException extends RuntimeException{
 	private static final long serialVersionUID = 1L;
